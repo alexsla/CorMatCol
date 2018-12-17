@@ -1,5 +1,4 @@
 # CorMatCol
-Coloured Correlation Matrix
 
 This repository contains source code, documentation, and R data for the project "Coloured Correlation Matrix."
 
