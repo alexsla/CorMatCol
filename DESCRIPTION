@@ -1,7 +1,7 @@
 Package: CorMatCol
 Type: Package
 Title: Coloured Correlation Matrix
-Version: 0.1.0
+Version: 0.1.1
 Author: Alex Slavenko
 Maintainer: Alex Slavenko <gluttony14@gmail.com>
 Depends: R (>= 3.5.0)

@@ -76,7 +76,7 @@ CorMatCol <- function(data,
           z2 <- z2[, c("col_var", nm[j], nm[i])]
           names(z2) <- c("col_var", "x_value", "y_value")
         }else{
-          z2 <- z2[, c(nm[i], nm[j])]
+          z2 <- z2[, c(nm[j], nm[i])]
           names(z2) <- c("x_value", "y_value")
         }
         if(i < j){
